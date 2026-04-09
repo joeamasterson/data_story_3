@@ -1,0 +1,5 @@
+# Bar Chart for Goverment Spending
+
+```{r, echo=FALSE, fig.cap="Countries with the highest military expenditure", out.width="80%"}
+knitr::include_graphics("960x0.jpg")
+```

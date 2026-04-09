@@ -1,0 +1,9 @@
+fig:unnamed-chunk-1
+intro
+background-on-sdg-8-economic-growth-and-work
+background-on-sdg-16-institutions-and-stability
+military-spending-questions
+current-events
+bar-chart-for-goverment-spending
+military-spending-vs.-development
+conclusion
