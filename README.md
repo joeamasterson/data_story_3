@@ -87,3 +87,5 @@ For help using `bookdown`, you can find the bookdown book [here](https://yihui.o
 
 For help formatting `citations`, look [here](https://bookdown.org/fmcron/Rhodes-template/bibliographies.html).  
 
+
+Here is the link: https://joeamasterson.github.io/data_story_3/
