@@ -3,3 +3,4 @@
 ```{r, echo=FALSE, fig.cap="Countries with the highest military expenditure", out.width="80%"}
 knitr::include_graphics("960x0.jpg")
 ```
+* https://www.forbes.com/sites/niallmccarthy/2021/04/28/the-countries-with-the-highest-military-expenditure-in-2020-infographic/https://www.forbes.com/sites/niallmccarthy/2021/04/28/the-countries-with-the-highest-military-expenditure-in-2020-infographic/*
